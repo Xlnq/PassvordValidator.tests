@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassvordValidator.tests", "PassvordValidator.tests\PassvordValidator.tests.csproj", "{FB6A7D81-AD35-428C-A1F7-5AC6DC1F661D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB6A7D81-AD35-428C-A1F7-5AC6DC1F661D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6A7D81-AD35-428C-A1F7-5AC6DC1F661D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6A7D81-AD35-428C-A1F7-5AC6DC1F661D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6A7D81-AD35-428C-A1F7-5AC6DC1F661D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B92828A3-1CF0-47F1-94A9-75B9DC655897}
+	EndGlobalSection
+EndGlobal
